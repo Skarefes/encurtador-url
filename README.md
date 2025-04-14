@@ -2,7 +2,7 @@
 Este projeto é uma aplicação Java com Spring Boot que permite encurtar URLs longas, gerando links curtos e únicos com base no ID da URL armazenado no banco de dados. Ele utiliza codificação Base62 para transformar o ID numérico em um identificador curto e reutilizável.
 
 # Funcionalidades
-- Encurtar URLs longas em links curtos.
+- Encurtar URLs longas em links curtos e semi personalizados.
 
 - Redirecionar automaticamente a URL curta para a original.
 
